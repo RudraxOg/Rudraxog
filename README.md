@@ -62,7 +62,7 @@ I am a full-stack developer specializing in the **MERN stack** and **Next.js** e
 ### ✦ Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rudraxog&hide_border=true&hide_bg=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&include_all_commits=true&count_private=false" alt="Rudra's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Rudraxog&theme=dark&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&include_all_commits=true&count_private=false" alt="Rudra's GitHub Stats" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=Rudraxog&hide_border=true&background=transparent&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" alt="Rudra's GitHub Streak" />
 </p>
